@@ -26,8 +26,8 @@
 #include <ESP8266mDNS.h>
 
 // Fill in your WiFi router SSID and password
-const char* ssid = "TRNet";
-const char* password = "TRbot69u2!";
+const char* ssid = "Network";
+const char* password = "Password";
 MDNSResponder mdns;
 
 int val;
